@@ -1,0 +1,23 @@
+HR Analytics QA:
+
+what insights the HR wants to see from the data??
+
+1. Understand the working preference of the people between work from home and work from office?
+2. People are taking sick leave so we should know why people are taking sick leaves generally covid and other seasonal flues (No. of people being sick on a given period of time in the year
+3. Total percentage of people present (P), Percentage of people taking sick leave (SL) and percentage of people love to work from home(WFH) 
+4. Analysing trends of presence % by date, Sick leave % by date and Work from home (WFH %) by date by using visual charts.
+5. Created a matrix table w.r.t days of week and presence %, days of week and work fropm home percentage (WFH %) and at last days of week and sick leave percentage(SL %)
+6. We have created a table of the employees where the columns are name of the employees, presence %, Work from home (WFH %) and sick leave percentage (SL%) which can help us to understand details w.r.t Presence percentage, SL and WFH by each person in details. 
+7. We have created a table which gives the details of the employees w.r.t each day.
+
+
+what we have done in the Hr analytics project:
+
+1. importing the data 
+2. importing the april data
+3. we promoted the headers
+4. we did some unpivoting i.e. the transformation step
+5. gather and transform data using Power Query
+6.create metrics using DAX
+7.create a usable dashboard
+8.future requirements of stakeholders after providing a MVP (Minimum Viable Product)
